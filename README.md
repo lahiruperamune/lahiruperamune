@@ -1,9 +1,3 @@
-Hi there , I'm @lahiruperamune
-Connect with me
-lahiruperamune-linkedin
-
-
-<!---
 - 👋 Hi, I’m @lahiruperamune
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
